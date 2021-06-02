@@ -1,10 +1,9 @@
-package htu; 
-
+package Part1;
 import java.util.Scanner;  
 
- 
 
-public class CaesarCipher {  
+
+public class CeasarCipher {  
 
 public static void main(String[] args) { 
 
