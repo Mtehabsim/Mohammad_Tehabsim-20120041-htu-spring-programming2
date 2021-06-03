@@ -86,11 +86,8 @@ int check = newIndex;// in case it was negative
  
 
 if(newIndex<0) {//if negative 
-
-newIndex = 26 -Math.abs(check);}//subtract the absolute of index from 26 
-
-messageChar[i] = alphabet1[newIndex]; // change the character with the new one 
-
+	newIndex = 26 -Math.abs(check);}//subtract the absolute of index from 26 
+	messageChar[i] = alphabet1[newIndex]; // change the character with the new one 
 } 
 
  
