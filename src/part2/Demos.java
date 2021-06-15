@@ -14,8 +14,8 @@ public class Demos {
 		e1.yearOfBirth = 1990; 
 		
 		e1.companyName = "Amazon";
-		e1.salary = 500;
-		
+		e1.setSalary(500);
+		e1.getSalary();
 		h1.printName();
 		e1.printName();
 		
