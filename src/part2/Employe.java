@@ -5,6 +5,10 @@ public class Employe extends Human{
 	
 	String companyName = "Microsoft";
 	
+	public void printName() {
+		System.out.println("My name is "+name+" overridding was done");
+	}
+	
 	public void printYearSalary() {
 		System.out.println("Your salary in a year is "+salary*12);
 	}

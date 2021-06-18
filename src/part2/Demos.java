@@ -11,7 +11,7 @@ public class Demos {
 		e1.name = "Mohammad";
 		
 		h1.yearOfBirth = 2005;
-		e1.yearOfBirth = 1990; 
+		e1.yearOfBirth = 1990;
 		
 		e1.companyName = "Amazon";
 		e1.setSalary(500);
